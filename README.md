@@ -8,17 +8,17 @@ The repository currently contains **347 C++ solutions**:
 
 | Platform | Solutions |
 | --- | ---: |
-| [Codeforces](<Problem-Solving/Codeforces>) | 232 |
-| [CSES](<Problem-Solving/CSES>) | 25 |
-| [SPOJ](<Problem-Solving/SPOJ>) | 25 |
-| [HackerRank](<Problem-Solving/Hacker%20Rank>) | 21 |
-| [UVA](<Problem-Solving/UVA>) | 20 |
-| [AtCoder](<Problem-Solving/At%20Coder>) | 8 |
-| [LightOJ](<Problem-Solving/Light%20OJ>) | 7 |
-| [CodeChef](<Problem-Solving/CodeChef>) | 3 |
-| [Yosupo Judge](<Problem-Solving/Yosupo%20Judge>) | 3 |
-| [POJ](<Problem-Solving/POJ>) | 2 |
-| [DMOJ](<Problem-Solving/DMOJ>) | 1 |
+| [Codeforces](Codeforces>) | 232 |
+| [CSES](<CSES>) | 25 |
+| [SPOJ](<SPOJ>) | 25 |
+| [HackerRank](<Hacker%20Rank>) | 21 |
+| [UVA](<UVA>) | 20 |
+| [AtCoder](<At%20Coder>) | 8 |
+| [LightOJ](<Light%20OJ>) | 7 |
+| [CodeChef](<CodeChef>) | 3 |
+| [Yosupo Judge](<Yosupo%20Judge>) | 3 |
+| [POJ](<POJ>) | 2 |
+| [DMOJ](<DMOJ>) | 1 |
 
 Topics represented include:
 
@@ -34,7 +34,6 @@ Topics represented include:
 ## Repository layout
 
 ```text
-Problem-Solving/
 ├── Codeforces/
 │   ├── Edu/
 │   ├── Gyms/
